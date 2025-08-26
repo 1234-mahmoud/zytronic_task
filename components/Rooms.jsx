@@ -20,7 +20,7 @@ export default function Rooms() {
             className="group flex justify-center items-center basis-[20%] relative h-[250px] [perspective:1000px]"
           >
             {/* background image */}
-            <Image fill src="/hotel_2.jpg" alt="pic" className="rounded-md object-cover" />
+            <Image fill src="/hotel_2.jpg" alt="pic" className="object-cover" />
 
             {/* Flipping card */}
             <div
